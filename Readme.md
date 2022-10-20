@@ -3,3 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-pm-santos96&count_private=true&show_icons=true)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-pm-santos96)
+
